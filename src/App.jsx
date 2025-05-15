@@ -662,7 +662,7 @@ function App() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="mb-6 md:mb-0">
               <h3 className="text-lg font-bold text-gray-800 mb-2">Communications Trends Report</h3>
-              <p className="text-gray-600">Q1 2025 | Published March 11, 2025</p>
+              <p className="text-gray-600">Q2 2025 | Published May 15, 2025</p>
             </div>
 
             <div className="flex flex-col md:flex-row md:items-center space-y-4 md:space-y-0 md:space-x-6">
