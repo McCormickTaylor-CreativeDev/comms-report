@@ -455,9 +455,7 @@ function App() {
                   <div className="flex flex-col h-full">
                     <h4 className="text-gray-800 font-medium mb-1">2025 Industry Outlook: Government Trends</h4>
                     <p className="text-gray-600 text-sm mb-3">
-                      A forward-looking report analyzing how all levels of government are accelerating efforts to
-                      provide seamless, outcome-oriented services. It explores trends like data integration, responsible
-                      AI, resilient infrastructure, and workforce upskilling to meet evolving community expectation
+                      Overview of how governments are accelerating digital transformation.
                     </p>
                     <a
                       href="https://www.slalom.com/us/en/insights/government-outlook-2025"
@@ -484,9 +482,7 @@ function App() {
                       Navigating the Shifting Sands: Why Government Communicators are Your MVPs in 2025
                     </h4>
                     <p className="text-gray-600 text-sm mb-3">
-                      An in-depth article on the evolving role of government communicators in 2025, emphasizing the
-                      importance of building public trust, translating policy, and improving service delivery through
-                      clear, accessible, and inclusive communication strategies{" "}
+                      Article on the evolving role of government communicators in 2025.
                     </p>
                     <a
                       href="https://orlo.tech/us/us-blog/navigating-the-shifting-sands-why-government-communicators-are-your-mvps-in-2025/"
@@ -509,9 +505,7 @@ function App() {
                   <div className="flex flex-col h-full">
                     <h4 className="text-gray-800 font-medium mb-1">Communication Trends to Watch in 2025</h4>
                     <p className="text-gray-600 text-sm mb-3">
-                      A blog post highlighting key communication trends for 2025, such as engaging audiences through
-                      creativity, building relationships via active engagement, and the importance of social listening
-                      for public sector organizations
+                      Blog post highlighting key communication trends for 2025.
                     </p>
                     <a
                       href="https://igpr.com/communication-trends-to-watch-in-2025/"
