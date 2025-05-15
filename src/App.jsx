@@ -458,6 +458,7 @@ function App() {
                       Overview of how governments are accelerating digital transformation.
                     </p>
                     <a
+                      target="_blank"
                       href="https://www.slalom.com/us/en/insights/government-outlook-2025"
                       className="text-mt-blue hover:text-mt-blue/80 text-sm font-medium inline-flex items-center">
                       Read More
@@ -485,6 +486,7 @@ function App() {
                       Article on the evolving role of government communicators in 2025.
                     </p>
                     <a
+                      target="_blank"
                       href="https://orlo.tech/us/us-blog/navigating-the-shifting-sands-why-government-communicators-are-your-mvps-in-2025/"
                       className="text-mt-blue hover:text-mt-blue/80 text-sm font-medium inline-flex items-center mt-auto">
                       Read More
@@ -508,6 +510,7 @@ function App() {
                       Blog post highlighting key communication trends for 2025.
                     </p>
                     <a
+                      target="_blank"
                       href="https://igpr.com/communication-trends-to-watch-in-2025/"
                       className="text-mt-blue hover:text-mt-blue/80 text-sm font-medium inline-flex items-center mt-auto">
                       Read More
