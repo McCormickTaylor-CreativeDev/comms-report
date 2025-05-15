@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+  --color-mt-blue: #013763;
+  --color-mt-green: #02775a;
+  --color-mt-blue-light: #005082;
+  --color-mt-green-light: #00856f;
+}
+
+.placeholder {
+  position: relative;
+}
+
+.placeholder::after {
+  content: "PLACEHOLDER";
+  color: white;
+  font-size: 36px;
+  font-weight: bold;
+  display: grid;
+  place-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 0, 0, 0.5);
+  z-index: 1;
+}
